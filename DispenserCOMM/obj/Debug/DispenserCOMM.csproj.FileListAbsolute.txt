@@ -1,0 +1,10 @@
+D:\Github Repositories\TOOLS\DispenserCOMM\bin\Debug\DispenserCOMM.exe.config
+D:\Github Repositories\TOOLS\DispenserCOMM\bin\Debug\DispenserCOMM.exe
+D:\Github Repositories\TOOLS\DispenserCOMM\bin\Debug\DispenserCOMM.pdb
+D:\Github Repositories\TOOLS\DispenserCOMM\obj\Debug\DispenserCOMM.csprojResolveAssemblyReference.cache
+D:\Github Repositories\TOOLS\DispenserCOMM\obj\Debug\DispenserCOMM.Form1.resources
+D:\Github Repositories\TOOLS\DispenserCOMM\obj\Debug\DispenserCOMM.Properties.Resources.resources
+D:\Github Repositories\TOOLS\DispenserCOMM\obj\Debug\DispenserCOMM.csproj.GenerateResource.cache
+D:\Github Repositories\TOOLS\DispenserCOMM\obj\Debug\DispenserCOMM.csproj.CoreCompileInputs.cache
+D:\Github Repositories\TOOLS\DispenserCOMM\obj\Debug\DispenserCOMM.exe
+D:\Github Repositories\TOOLS\DispenserCOMM\obj\Debug\DispenserCOMM.pdb

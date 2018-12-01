@@ -25,26 +25,36 @@ namespace CreateGUID
         }
 
         private void button2_Click(object sender, EventArgs e)
-        {            
-           
-            
-                Clipboard.SetText(textBox1.Text);
-            
-            
+        {
+            /*  if(textBox1==null)
+              {
+                  StringBuilder messageBuilder = new StringBuilder(200);
+                  messageBuilder.Append("To continue, please select one of the actions below:");
+                  messageBuilder.Append(Environment.NewLine);
+                  messageBuilder.Append(Environment.NewLine);
+                  messageBuilder.Append("\t\u2022 Click Button A to do this action.");
+                  messageBuilder.Append(Environment.NewLine);
+                  messageBuilder.Append("\t\u2022 Click Button B to do this action.");
+                  MessageBox.Show(messageBuilder.ToString());
 
-            
+              }
+              else
+              {
+                  Clipboard.SetText(textBox1.Text);
+              }*/
+            try
+            {
+                Clipboard.SetText(textBox1.Text);
+            }
+            catch(Exception ex)
+            {
+                System.Console.Write(ex);
+            }                  
         }
 
         private void button3_Click(object sender, EventArgs e)
         {
-            StringBuilder messageBuilder = new StringBuilder(200);
-            messageBuilder.Append("To continue, please select one of the actions below:");
-            messageBuilder.Append(Environment.NewLine);
-            messageBuilder.Append(Environment.NewLine);
-            messageBuilder.Append("\t\u2022 Click Button A to do this action.");
-            messageBuilder.Append(Environment.NewLine);
-            messageBuilder.Append("\t\u2022 Click Button B to do this action.");
-            MessageBox.Show(messageBuilder.ToString());
+            
             textBox1.Clear();
         }
     }
