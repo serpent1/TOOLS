@@ -25,36 +25,22 @@ namespace CreateGUID
         }
 
         private void button2_Click(object sender, EventArgs e)
-        {
-            /*  if(textBox1==null)
-              {
-                  StringBuilder messageBuilder = new StringBuilder(200);
-                  messageBuilder.Append("To continue, please select one of the actions below:");
-                  messageBuilder.Append(Environment.NewLine);
-                  messageBuilder.Append(Environment.NewLine);
-                  messageBuilder.Append("\t\u2022 Click Button A to do this action.");
-                  messageBuilder.Append(Environment.NewLine);
-                  messageBuilder.Append("\t\u2022 Click Button B to do this action.");
-                  MessageBox.Show(messageBuilder.ToString());
-
-              }
-              else
-              {
-                  Clipboard.SetText(textBox1.Text);
-              }*/
+        {           
             try
             {
                 Clipboard.SetText(textBox1.Text);
             }
             catch(Exception ex)
             {
-                System.Console.Write(ex);
+                System.Console.Write(ex);                         
+                StringBuilder messageBuilder = new StringBuilder(200);
+                messageBuilder.Append("请检查GUID生成框是否为空");                
+                MessageBox.Show(messageBuilder.ToString());               
             }                  
         }
 
         private void button3_Click(object sender, EventArgs e)
-        {
-            
+        {           
             textBox1.Clear();
         }
     }

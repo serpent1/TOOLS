@@ -36,7 +36,7 @@
             this.CommCheck = new System.Windows.Forms.Button();
             this.statusStrip1 = new System.Windows.Forms.StatusStrip();
             this.statuslabel = new System.Windows.Forms.ToolStripStatusLabel();
-            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.sendtbx = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.textBox2 = new System.Windows.Forms.TextBox();
@@ -127,14 +127,14 @@
             this.statuslabel.Spring = true;
             this.statuslabel.Text = "Not Connected";
             // 
-            // textBox1
+            // sendtbx
             // 
-            this.textBox1.Location = new System.Drawing.Point(21, 65);
-            this.textBox1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.textBox1.Multiline = true;
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(240, 247);
-            this.textBox1.TabIndex = 1;
+            this.sendtbx.Location = new System.Drawing.Point(21, 65);
+            this.sendtbx.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.sendtbx.Multiline = true;
+            this.sendtbx.Name = "sendtbx";
+            this.sendtbx.Size = new System.Drawing.Size(240, 247);
+            this.sendtbx.TabIndex = 1;
             // 
             // label2
             // 
@@ -147,15 +147,14 @@
             this.label2.TabIndex = 3;
             this.label2.Text = "发送框";
             this.label2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            
             // 
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(364, 18);
+            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label3.Location = new System.Drawing.Point(364, 32);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(72, 25);
+            this.label3.Size = new System.Drawing.Size(75, 25);
             this.label3.TabIndex = 4;
             this.label3.Text = "接收框";
             // 
@@ -173,7 +172,7 @@
             this.Data.Controls.Add(this.textBox2);
             this.Data.Controls.Add(this.label3);
             this.Data.Controls.Add(this.label2);
-            this.Data.Controls.Add(this.textBox1);
+            this.Data.Controls.Add(this.sendtbx);
             this.Data.Location = new System.Drawing.Point(40, 124);
             this.Data.Name = "Data";
             this.Data.Size = new System.Drawing.Size(559, 327);
@@ -184,11 +183,12 @@
             // label5
             // 
             this.label5.AutoSize = true;
+            this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label5.Location = new System.Drawing.Point(80, 32);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(46, 17);
+            this.label5.Size = new System.Drawing.Size(75, 25);
             this.label5.TabIndex = 6;
-            this.label5.Text = "label5";
+            this.label5.Text = "发送框";
             // 
             // Form1
             // 
@@ -224,7 +224,7 @@
         private System.Windows.Forms.StatusStrip statusStrip1;
         private System.Windows.Forms.ToolStripStatusLabel statuslabel;
         private System.Windows.Forms.Button CommCheck;
-        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.TextBox sendtbx;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.TextBox textBox2;

@@ -17,6 +17,7 @@ namespace DispenserCOMM
         {
             InitializeComponent();
             InitialzeCOMcombox();
+            
 
         }
         //串口操作
@@ -28,7 +29,6 @@ namespace DispenserCOMM
             if (ArrayComPortsNames.Length==0)
             {
                 statuslabel.Text = "没有发现串口";
-
             }
             else
             {
@@ -46,6 +46,12 @@ namespace DispenserCOMM
 
         private void CommCheck_Click(object sender, EventArgs e)
         {
+            String sendText = sendtbx.Text;
+            bool flag = false;
+            if (sendText==null)
+            {
+                return;
+            }
 
         }
     }
