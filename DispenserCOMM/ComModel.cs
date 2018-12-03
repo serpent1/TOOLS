@@ -30,15 +30,12 @@ namespace DispenserCOMM
         public event SerialPortEventHandler comOpenEnent = null;
         public event SerialPortEventHandler comCloseEvent = null;
 
-        
-
-
         private Object thisLock = new object();
         
         //serial port receive data handle method
         private void DataReceived(object sender,SerialDataReceivedEventArgs e)
         {
-
+            //get ReceiveData number
             if (sp.BytesToRead<=0)
             {
                 return;
@@ -67,5 +64,23 @@ namespace DispenserCOMM
                 }               
             }
         }
+        //send data handle
+        public bool Send(Byte[] bytes)
+        {
+            if (!sp.IsOpen)
+            {
+                return false;
+            }
+            try
+            {
+                sp.Write(bytes, 0, bytes.Length);
+            }
+            catch(System.Exception)
+            {
+                return false;
+            }
+            return true;
+        }
+        
     }
 }
