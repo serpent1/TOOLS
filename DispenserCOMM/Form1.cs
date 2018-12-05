@@ -11,15 +11,38 @@ using System.IO.Ports;
 
 namespace DispenserCOMM
 {
+    public interface IView
+    {
+        void SetController(IControler controller);
+        //open serial port event
+        void OpenComEvent(Object sender, SerialPortEventArgs e);
+        //close serial port event
+        void CloseComEvent(Object sender, SerialPortEventArgs e);
+        //serial port receive data event
+        void ComReceiveDataEvent(Object sender, SerialPortEventArgs e);
+    }
+
+
+
     public partial class Form1 : Form
     {
+        private IControler controller;
+        private int sendByteCount = 0;
+        private int receiveByteCount = 0;
         public Form1()
         {
             InitializeComponent();
             InitialzeCOMcombox();
+           
             
 
         }
+
+        public void SetController(IControler controller)
+        {
+            this.controller = controller;
+        }
+
         //串口操作
         private void InitialzeCOMcombox()
         {
@@ -52,7 +75,7 @@ namespace DispenserCOMM
             {
                 return;
             }
-
+               
         }
     }
 }

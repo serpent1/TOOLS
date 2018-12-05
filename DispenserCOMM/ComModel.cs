@@ -27,7 +27,7 @@ namespace DispenserCOMM
         private SerialPort sp = new SerialPort();
         
         public event SerialPortEventHandler comReceiveDataEvent = null;
-        public event SerialPortEventHandler comOpenEnent = null;
+        public event SerialPortEventHandler comOpenEvent = null;
         public event SerialPortEventHandler comCloseEvent = null;
 
         private Object thisLock = new object();
@@ -80,6 +80,83 @@ namespace DispenserCOMM
                 return false;
             }
             return true;
+        }
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="portname"></param>
+        /// <param name="baudRate"></param>
+        /// <param name="dataBits"></param>
+        /// <param name="stopBits"></param>
+        /// <param name="parity"></param>
+        /// <param name="handshake"></param>
+        public void Open(string portname,String baudRate,
+            string dataBits,string stopBits,string parity,string handshake)
+        {
+            if (sp.IsOpen)
+            {
+                Close();   
+            }
+            sp.PortName = portname;
+            sp.BaudRate = Convert.ToInt32(baudRate);
+            sp.DataBits = Convert.ToInt16(dataBits);
+
+
+            if (handshake=="None")
+            {
+                sp.RtsEnable = true;
+                sp.DtrEnable = true;
+            }
+
+            SerialPortEventArgs args = new SerialPortEventArgs();
+            try
+            {
+                sp.StopBits = (StopBits)Enum.Parse(typeof(StopBits), stopBits);
+                sp.Parity = (Parity)Enum.Parse(typeof(Parity), parity);
+                sp.Handshake = (Handshake)Enum.Parse(typeof(Handshake), handshake);
+                sp.WriteTimeout = 1000;
+                sp.Open();
+                sp.DataReceived += new SerialDataReceivedEventHandler(DataReceived);
+                args.isOpend = true;
+            }
+            catch(System.Exception)
+            {
+                args.isOpend = false;
+            }
+            if(comOpenEvent!=null)
+            {
+                comOpenEvent.Invoke(this, args);
+            }
+        }
+        /// <summary>
+        /// 
+        /// close serial port thread
+        /// </summary>
+        public void Close()
+        {
+            Thread closeThread = new Thread(new ThreadStart(CloseSpThread));
+            closeThread.Start();
+        }
+        /// <summary>
+        /// close serial port thread
+        /// </summary>
+        public void CloseSpThread()
+        {
+            SerialPortEventArgs args = new SerialPortEventArgs();
+            args.isOpend = false;
+            try
+            {
+                sp.Close();
+                sp.DataReceived -= new SerialDataReceivedEventHandler(DataReceived);
+            }
+            catch(Exception)
+            {
+                args.isOpend = true;
+            }
+            if(comCloseEvent!=null)
+            {
+                comCloseEvent.Invoke(this, args);
+            }
         }
         
     }

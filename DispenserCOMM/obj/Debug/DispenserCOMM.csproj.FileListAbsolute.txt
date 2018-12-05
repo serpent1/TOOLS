@@ -18,3 +18,13 @@ D:\Github Repository\TOOLS\DispenserCOMM\obj\Debug\DispenserCOMM.csproj.Generate
 D:\Github Repository\TOOLS\DispenserCOMM\obj\Debug\DispenserCOMM.csproj.CoreCompileInputs.cache
 D:\Github Repository\TOOLS\DispenserCOMM\obj\Debug\DispenserCOMM.exe
 D:\Github Repository\TOOLS\DispenserCOMM\obj\Debug\DispenserCOMM.pdb
+D:\Github Repository\serpent1\TOOLS\DispenserCOMM\bin\Debug\DispenserCOMM.exe.config
+D:\Github Repository\serpent1\TOOLS\DispenserCOMM\bin\Debug\DispenserCOMM.exe
+D:\Github Repository\serpent1\TOOLS\DispenserCOMM\bin\Debug\DispenserCOMM.pdb
+D:\Github Repository\serpent1\TOOLS\DispenserCOMM\obj\Debug\DispenserCOMM.csprojAssemblyReference.cache
+D:\Github Repository\serpent1\TOOLS\DispenserCOMM\obj\Debug\DispenserCOMM.Form1.resources
+D:\Github Repository\serpent1\TOOLS\DispenserCOMM\obj\Debug\DispenserCOMM.Properties.Resources.resources
+D:\Github Repository\serpent1\TOOLS\DispenserCOMM\obj\Debug\DispenserCOMM.csproj.GenerateResource.cache
+D:\Github Repository\serpent1\TOOLS\DispenserCOMM\obj\Debug\DispenserCOMM.csproj.CoreCompileInputs.cache
+D:\Github Repository\serpent1\TOOLS\DispenserCOMM\obj\Debug\DispenserCOMM.exe
+D:\Github Repository\serpent1\TOOLS\DispenserCOMM\obj\Debug\DispenserCOMM.pdb
