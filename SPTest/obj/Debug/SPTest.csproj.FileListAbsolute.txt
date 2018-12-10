@@ -1,0 +1,10 @@
+D:\Github Repository\serpent1\TOOLS\SPTest\bin\Debug\SPTest.exe.config
+D:\Github Repository\serpent1\TOOLS\SPTest\bin\Debug\SPTest.exe
+D:\Github Repository\serpent1\TOOLS\SPTest\bin\Debug\SPTest.pdb
+D:\Github Repository\serpent1\TOOLS\SPTest\obj\Debug\SPTest.Form1.resources
+D:\Github Repository\serpent1\TOOLS\SPTest\obj\Debug\SPTest.Properties.Resources.resources
+D:\Github Repository\serpent1\TOOLS\SPTest\obj\Debug\SPTest.csproj.GenerateResource.cache
+D:\Github Repository\serpent1\TOOLS\SPTest\obj\Debug\SPTest.csproj.CoreCompileInputs.cache
+D:\Github Repository\serpent1\TOOLS\SPTest\obj\Debug\SPTest.exe
+D:\Github Repository\serpent1\TOOLS\SPTest\obj\Debug\SPTest.pdb
+D:\Github Repository\serpent1\TOOLS\SPTest\obj\Debug\SPTest.csprojAssemblyReference.cache

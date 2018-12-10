@@ -66,7 +66,11 @@ namespace DispenserCOMM
             }
 
         }
-
+        /// <summary>
+        /// Send Data
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void CommCheck_Click(object sender, EventArgs e)
         {
             String sendText = sendtbx.Text;
@@ -75,7 +79,38 @@ namespace DispenserCOMM
             {
                 return;
             }
-               
+
+            //
+            sendtbx.SelectionStart = sendtbx.TextLength;                                              
+        }
+        /// <summary>
+        /// open or close serial port
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
+        private void openCloseSpbtn_Click(object sender, EventArgs e)
+        {
+            if(openCloseSpbtn.Text=="打开串口")
+            {
+                controller.OpenSerialPort(comboBox1.Text,"9600","8","1","0","None");
+                sendtbx.Text = comboBox1.Text;
+            }
+            else
+            {
+                controller.CloseSerialPort();
+            }
+        }
+
+        private void clearSendData_Click(object sender, EventArgs e)
+        {
+            sendtbx.Text = "";
+
+        }
+
+        private void SendReceiveData_Click(object sender, EventArgs e)
+        {
+            textBox2.Text = "";
+
         }
     }
 }

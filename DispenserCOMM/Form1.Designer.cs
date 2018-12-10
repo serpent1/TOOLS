@@ -33,6 +33,9 @@
             this.comboBox1 = new System.Windows.Forms.ComboBox();
             this.label4 = new System.Windows.Forms.Label();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
+            this.SendReceiveData = new System.Windows.Forms.Button();
+            this.clearSendData = new System.Windows.Forms.Button();
+            this.openCloseSpbtn = new System.Windows.Forms.Button();
             this.CommCheck = new System.Windows.Forms.Button();
             this.statusStrip1 = new System.Windows.Forms.StatusStrip();
             this.statuslabel = new System.Windows.Forms.ToolStripStatusLabel();
@@ -42,7 +45,6 @@
             this.textBox2 = new System.Windows.Forms.TextBox();
             this.Data = new System.Windows.Forms.GroupBox();
             this.label5 = new System.Windows.Forms.Label();
-            this.button1 = new System.Windows.Forms.Button();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             this.statusStrip1.SuspendLayout();
@@ -87,7 +89,9 @@
             // 
             // groupBox2
             // 
-            this.groupBox2.Controls.Add(this.button1);
+            this.groupBox2.Controls.Add(this.SendReceiveData);
+            this.groupBox2.Controls.Add(this.clearSendData);
+            this.groupBox2.Controls.Add(this.openCloseSpbtn);
             this.groupBox2.Controls.Add(this.CommCheck);
             this.groupBox2.Controls.Add(this.label4);
             this.groupBox2.Controls.Add(this.comboBox1);
@@ -98,13 +102,43 @@
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "COMM";
             // 
+            // SendReceiveData
+            // 
+            this.SendReceiveData.Location = new System.Drawing.Point(30, 295);
+            this.SendReceiveData.Name = "SendReceiveData";
+            this.SendReceiveData.Size = new System.Drawing.Size(148, 41);
+            this.SendReceiveData.TabIndex = 13;
+            this.SendReceiveData.Text = "清空接收";
+            this.SendReceiveData.UseVisualStyleBackColor = true;
+            this.SendReceiveData.Click += new System.EventHandler(this.SendReceiveData_Click);
+            // 
+            // clearSendData
+            // 
+            this.clearSendData.Location = new System.Drawing.Point(30, 228);
+            this.clearSendData.Name = "clearSendData";
+            this.clearSendData.Size = new System.Drawing.Size(148, 40);
+            this.clearSendData.TabIndex = 12;
+            this.clearSendData.Text = "清空发送";
+            this.clearSendData.UseVisualStyleBackColor = true;
+            this.clearSendData.Click += new System.EventHandler(this.clearSendData_Click);
+            // 
+            // openCloseSpbtn
+            // 
+            this.openCloseSpbtn.Location = new System.Drawing.Point(30, 100);
+            this.openCloseSpbtn.Name = "openCloseSpbtn";
+            this.openCloseSpbtn.Size = new System.Drawing.Size(148, 39);
+            this.openCloseSpbtn.TabIndex = 11;
+            this.openCloseSpbtn.Text = "打开串口";
+            this.openCloseSpbtn.UseVisualStyleBackColor = true;
+            this.openCloseSpbtn.Click += new System.EventHandler(this.openCloseSpbtn_Click);
+            // 
             // CommCheck
             // 
-            this.CommCheck.Location = new System.Drawing.Point(30, 275);
+            this.CommCheck.Location = new System.Drawing.Point(30, 166);
             this.CommCheck.Name = "CommCheck";
-            this.CommCheck.Size = new System.Drawing.Size(148, 45);
+            this.CommCheck.Size = new System.Drawing.Size(148, 35);
             this.CommCheck.TabIndex = 10;
-            this.CommCheck.Text = "通讯检查";
+            this.CommCheck.Text = "开始寻址";
             this.CommCheck.UseVisualStyleBackColor = true;
             this.CommCheck.Click += new System.EventHandler(this.CommCheck_Click);
             // 
@@ -192,15 +226,6 @@
             this.label5.TabIndex = 6;
             this.label5.Text = "发送框";
             // 
-            // button1
-            // 
-            this.button1.Location = new System.Drawing.Point(30, 196);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(148, 41);
-            this.button1.TabIndex = 11;
-            this.button1.Text = "打开串口";
-            this.button1.UseVisualStyleBackColor = true;
-            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -241,7 +266,9 @@
         private System.Windows.Forms.TextBox textBox2;
         private System.Windows.Forms.GroupBox Data;
         private System.Windows.Forms.Label label5;
-        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button openCloseSpbtn;
+        private System.Windows.Forms.Button SendReceiveData;
+        private System.Windows.Forms.Button clearSendData;
     }
 }
 

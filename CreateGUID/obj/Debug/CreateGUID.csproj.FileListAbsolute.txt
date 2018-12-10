@@ -51,7 +51,6 @@ D:\Github Repository\TOOLS\CreateGUID\obj\Debug\CreateGUID.pdb
 D:\Github Repository\serpent1\TOOLS\CreateGUID\bin\Debug\CreateGUID.exe.config
 D:\Github Repository\serpent1\TOOLS\CreateGUID\bin\Debug\CreateGUID.exe
 D:\Github Repository\serpent1\TOOLS\CreateGUID\bin\Debug\CreateGUID.pdb
-D:\Github Repository\serpent1\TOOLS\CreateGUID\obj\Debug\CreateGUID.csprojAssemblyReference.cache
 D:\Github Repository\serpent1\TOOLS\CreateGUID\obj\Debug\CreateGUID.GUID.resources
 D:\Github Repository\serpent1\TOOLS\CreateGUID\obj\Debug\CreateGUID.Properties.Resources.resources
 D:\Github Repository\serpent1\TOOLS\CreateGUID\obj\Debug\CreateGUID.csproj.GenerateResource.cache
