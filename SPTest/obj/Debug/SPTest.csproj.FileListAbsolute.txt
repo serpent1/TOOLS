@@ -8,3 +8,9 @@ D:\Github Repository\serpent1\TOOLS\SPTest\obj\Debug\SPTest.csproj.CoreCompileIn
 D:\Github Repository\serpent1\TOOLS\SPTest\obj\Debug\SPTest.exe
 D:\Github Repository\serpent1\TOOLS\SPTest\obj\Debug\SPTest.pdb
 D:\Github Repository\serpent1\TOOLS\SPTest\obj\Debug\SPTest.csprojAssemblyReference.cache
+D:\Github Repository\serpent1\TOOLS\SPTest\bin\Debug\EntityFramework.dll
+D:\Github Repository\serpent1\TOOLS\SPTest\bin\Debug\EntityFramework.SqlServer.dll
+D:\Github Repository\serpent1\TOOLS\SPTest\bin\Debug\SQLite.CodeFirst.dll
+D:\Github Repository\serpent1\TOOLS\SPTest\bin\Debug\EntityFramework.xml
+D:\Github Repository\serpent1\TOOLS\SPTest\bin\Debug\EntityFramework.SqlServer.xml
+D:\Github Repository\serpent1\TOOLS\SPTest\obj\Debug\SPTest.csproj.CopyComplete

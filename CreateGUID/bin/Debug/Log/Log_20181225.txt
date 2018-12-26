@@ -1,0 +1,481 @@
+10:06:21 AM Tuesday, December 25, 2018  :Logger
+10:06:21 AM Tuesday, December 25, 2018  :
+
+10:06:21 AM Tuesday, December 25, 2018  :
+
+10:06:21 AM Tuesday, December 25, 2018  :程序启动
+-------------------------------------------------------------
+10:06:22 AM Tuesday, December 25, 2018  :存储guid到数据库
+10:12:10 AM Tuesday, December 25, 2018  :Logger
+10:12:10 AM Tuesday, December 25, 2018  :
+
+10:12:10 AM Tuesday, December 25, 2018  :
+
+10:12:10 AM Tuesday, December 25, 2018  :程序启动
+-------------------------------------------------------------
+10:12:11 AM Tuesday, December 25, 2018  :存储guid到数据库
+10:12:11 AM Tuesday, December 25, 2018  :No Entity Framework provider found for the ADO.NET provider with invariant name 'System.Data.SQLite'. Make sure the provider is registered in the 'entityFramework' section of the application config file. See http://go.microsoft.com/fwlink/?LinkId=260882 for more information.
+10:12:13 AM Tuesday, December 25, 2018  :存储guid到数据库
+10:12:13 AM Tuesday, December 25, 2018  :No Entity Framework provider found for the ADO.NET provider with invariant name 'System.Data.SQLite'. Make sure the provider is registered in the 'entityFramework' section of the application config file. See http://go.microsoft.com/fwlink/?LinkId=260882 for more information.
+10:12:13 AM Tuesday, December 25, 2018  :存储guid到数据库
+10:12:13 AM Tuesday, December 25, 2018  :No Entity Framework provider found for the ADO.NET provider with invariant name 'System.Data.SQLite'. Make sure the provider is registered in the 'entityFramework' section of the application config file. See http://go.microsoft.com/fwlink/?LinkId=260882 for more information.
+10:12:13 AM Tuesday, December 25, 2018  :存储guid到数据库
+10:12:13 AM Tuesday, December 25, 2018  :No Entity Framework provider found for the ADO.NET provider with invariant name 'System.Data.SQLite'. Make sure the provider is registered in the 'entityFramework' section of the application config file. See http://go.microsoft.com/fwlink/?LinkId=260882 for more information.
+10:12:13 AM Tuesday, December 25, 2018  :存储guid到数据库
+10:12:13 AM Tuesday, December 25, 2018  :No Entity Framework provider found for the ADO.NET provider with invariant name 'System.Data.SQLite'. Make sure the provider is registered in the 'entityFramework' section of the application config file. See http://go.microsoft.com/fwlink/?LinkId=260882 for more information.
+10:12:14 AM Tuesday, December 25, 2018  :清空文本框！
+10:12:14 AM Tuesday, December 25, 2018  :清空文本框！
+10:12:14 AM Tuesday, December 25, 2018  :清空文本框！
+10:12:15 AM Tuesday, December 25, 2018  :清空文本框！
+10:12:15 AM Tuesday, December 25, 2018  :复制文本框内的内容！
+10:12:15 AM Tuesday, December 25, 2018  :Value cannot be null.
+Parameter name: text
+10:12:17 AM Tuesday, December 25, 2018  :存储guid到数据库
+10:12:17 AM Tuesday, December 25, 2018  :No Entity Framework provider found for the ADO.NET provider with invariant name 'System.Data.SQLite'. Make sure the provider is registered in the 'entityFramework' section of the application config file. See http://go.microsoft.com/fwlink/?LinkId=260882 for more information.
+10:12:18 AM Tuesday, December 25, 2018  :存储guid到数据库
+10:12:18 AM Tuesday, December 25, 2018  :No Entity Framework provider found for the ADO.NET provider with invariant name 'System.Data.SQLite'. Make sure the provider is registered in the 'entityFramework' section of the application config file. See http://go.microsoft.com/fwlink/?LinkId=260882 for more information.
+10:12:18 AM Tuesday, December 25, 2018  :存储guid到数据库
+10:12:18 AM Tuesday, December 25, 2018  :No Entity Framework provider found for the ADO.NET provider with invariant name 'System.Data.SQLite'. Make sure the provider is registered in the 'entityFramework' section of the application config file. See http://go.microsoft.com/fwlink/?LinkId=260882 for more information.
+10:12:18 AM Tuesday, December 25, 2018  :存储guid到数据库
+10:12:18 AM Tuesday, December 25, 2018  :No Entity Framework provider found for the ADO.NET provider with invariant name 'System.Data.SQLite'. Make sure the provider is registered in the 'entityFramework' section of the application config file. See http://go.microsoft.com/fwlink/?LinkId=260882 for more information.
+10:12:18 AM Tuesday, December 25, 2018  :存储guid到数据库
+10:12:18 AM Tuesday, December 25, 2018  :No Entity Framework provider found for the ADO.NET provider with invariant name 'System.Data.SQLite'. Make sure the provider is registered in the 'entityFramework' section of the application config file. See http://go.microsoft.com/fwlink/?LinkId=260882 for more information.
+10:12:18 AM Tuesday, December 25, 2018  :存储guid到数据库
+10:12:18 AM Tuesday, December 25, 2018  :No Entity Framework provider found for the ADO.NET provider with invariant name 'System.Data.SQLite'. Make sure the provider is registered in the 'entityFramework' section of the application config file. See http://go.microsoft.com/fwlink/?LinkId=260882 for more information.
+10:14:06 AM Tuesday, December 25, 2018  :Logger
+10:14:06 AM Tuesday, December 25, 2018  :
+
+10:14:06 AM Tuesday, December 25, 2018  :
+
+10:14:06 AM Tuesday, December 25, 2018  :程序启动
+-------------------------------------------------------------
+10:14:07 AM Tuesday, December 25, 2018  :存储guid到数据库
+10:14:07 AM Tuesday, December 25, 2018  :No Entity Framework provider found for the ADO.NET provider with invariant name 'System.Data.SQLite'. Make sure the provider is registered in the 'entityFramework' section of the application config file. See http://go.microsoft.com/fwlink/?LinkId=260882 for more information.
+10:14:09 AM Tuesday, December 25, 2018  :清空文本框！
+10:14:09 AM Tuesday, December 25, 2018  :复制文本框内的内容！
+10:14:09 AM Tuesday, December 25, 2018  :Value cannot be null.
+Parameter name: text
+10:26:19 AM Tuesday, December 25, 2018  :Logger
+10:26:19 AM Tuesday, December 25, 2018  :
+
+10:26:19 AM Tuesday, December 25, 2018  :
+
+10:26:19 AM Tuesday, December 25, 2018  :程序启动
+-------------------------------------------------------------
+10:26:20 AM Tuesday, December 25, 2018  :生成新的GUID：4D2BB8A2-A004-4BA8-8CA7-445A91FF4517
+10:26:21 AM Tuesday, December 25, 2018  :No Entity Framework provider found for the ADO.NET provider with invariant name 'System.Data.SQLite'. Make sure the provider is registered in the 'entityFramework' section of the application config file. See http://go.microsoft.com/fwlink/?LinkId=260882 for more information.
+10:26:21 AM Tuesday, December 25, 2018  :生成新的GUID：40CCF155-4B4D-4C2D-BE43-16B61693CC29
+10:26:21 AM Tuesday, December 25, 2018  :No Entity Framework provider found for the ADO.NET provider with invariant name 'System.Data.SQLite'. Make sure the provider is registered in the 'entityFramework' section of the application config file. See http://go.microsoft.com/fwlink/?LinkId=260882 for more information.
+10:26:22 AM Tuesday, December 25, 2018  :生成新的GUID：D0626400-8602-4A08-ACED-31C811FBCD57
+10:26:22 AM Tuesday, December 25, 2018  :No Entity Framework provider found for the ADO.NET provider with invariant name 'System.Data.SQLite'. Make sure the provider is registered in the 'entityFramework' section of the application config file. See http://go.microsoft.com/fwlink/?LinkId=260882 for more information.
+10:26:22 AM Tuesday, December 25, 2018  :生成新的GUID：1AC952D7-C4E8-4E20-BCC7-B7F653D6F70A
+10:26:22 AM Tuesday, December 25, 2018  :No Entity Framework provider found for the ADO.NET provider with invariant name 'System.Data.SQLite'. Make sure the provider is registered in the 'entityFramework' section of the application config file. See http://go.microsoft.com/fwlink/?LinkId=260882 for more information.
+10:26:22 AM Tuesday, December 25, 2018  :生成新的GUID：586B2315-FEA6-4772-85C9-6FD89447624F
+10:26:22 AM Tuesday, December 25, 2018  :No Entity Framework provider found for the ADO.NET provider with invariant name 'System.Data.SQLite'. Make sure the provider is registered in the 'entityFramework' section of the application config file. See http://go.microsoft.com/fwlink/?LinkId=260882 for more information.
+10:26:22 AM Tuesday, December 25, 2018  :生成新的GUID：54965D06-CFDF-415D-9369-C2336A13A42A
+10:26:23 AM Tuesday, December 25, 2018  :No Entity Framework provider found for the ADO.NET provider with invariant name 'System.Data.SQLite'. Make sure the provider is registered in the 'entityFramework' section of the application config file. See http://go.microsoft.com/fwlink/?LinkId=260882 for more information.
+10:26:23 AM Tuesday, December 25, 2018  :生成新的GUID：A8481126-4E21-46D7-B17E-4F9B109A9D16
+10:26:23 AM Tuesday, December 25, 2018  :No Entity Framework provider found for the ADO.NET provider with invariant name 'System.Data.SQLite'. Make sure the provider is registered in the 'entityFramework' section of the application config file. See http://go.microsoft.com/fwlink/?LinkId=260882 for more information.
+10:26:23 AM Tuesday, December 25, 2018  :生成新的GUID：0C0B29AB-EAF6-45A4-BEB4-9DA611935AA5
+10:26:23 AM Tuesday, December 25, 2018  :No Entity Framework provider found for the ADO.NET provider with invariant name 'System.Data.SQLite'. Make sure the provider is registered in the 'entityFramework' section of the application config file. See http://go.microsoft.com/fwlink/?LinkId=260882 for more information.
+10:26:23 AM Tuesday, December 25, 2018  :生成新的GUID：56B01F14-6F91-44BD-B324-7F7AE17F13FC
+10:26:23 AM Tuesday, December 25, 2018  :No Entity Framework provider found for the ADO.NET provider with invariant name 'System.Data.SQLite'. Make sure the provider is registered in the 'entityFramework' section of the application config file. See http://go.microsoft.com/fwlink/?LinkId=260882 for more information.
+10:26:23 AM Tuesday, December 25, 2018  :生成新的GUID：11C4F5F9-54E3-43AA-B63A-C57E0AD3FA3F
+10:26:23 AM Tuesday, December 25, 2018  :No Entity Framework provider found for the ADO.NET provider with invariant name 'System.Data.SQLite'. Make sure the provider is registered in the 'entityFramework' section of the application config file. See http://go.microsoft.com/fwlink/?LinkId=260882 for more information.
+10:26:23 AM Tuesday, December 25, 2018  :生成新的GUID：688E2800-1A88-456F-BAFB-4A3298709BAD
+10:26:23 AM Tuesday, December 25, 2018  :No Entity Framework provider found for the ADO.NET provider with invariant name 'System.Data.SQLite'. Make sure the provider is registered in the 'entityFramework' section of the application config file. See http://go.microsoft.com/fwlink/?LinkId=260882 for more information.
+10:26:23 AM Tuesday, December 25, 2018  :生成新的GUID：88095BA2-EECD-4450-9401-0943B0972C9C
+10:26:23 AM Tuesday, December 25, 2018  :No Entity Framework provider found for the ADO.NET provider with invariant name 'System.Data.SQLite'. Make sure the provider is registered in the 'entityFramework' section of the application config file. See http://go.microsoft.com/fwlink/?LinkId=260882 for more information.
+10:26:23 AM Tuesday, December 25, 2018  :生成新的GUID：F1721320-4E78-46FC-A7A8-C3293491D0D5
+10:26:23 AM Tuesday, December 25, 2018  :No Entity Framework provider found for the ADO.NET provider with invariant name 'System.Data.SQLite'. Make sure the provider is registered in the 'entityFramework' section of the application config file. See http://go.microsoft.com/fwlink/?LinkId=260882 for more information.
+10:26:24 AM Tuesday, December 25, 2018  :生成新的GUID：5185A731-0380-4881-8002-F4A5387FA348
+10:26:24 AM Tuesday, December 25, 2018  :No Entity Framework provider found for the ADO.NET provider with invariant name 'System.Data.SQLite'. Make sure the provider is registered in the 'entityFramework' section of the application config file. See http://go.microsoft.com/fwlink/?LinkId=260882 for more information.
+10:26:24 AM Tuesday, December 25, 2018  :生成新的GUID：7F34B27D-74F2-4FCF-9B02-C8D54F509066
+10:26:24 AM Tuesday, December 25, 2018  :No Entity Framework provider found for the ADO.NET provider with invariant name 'System.Data.SQLite'. Make sure the provider is registered in the 'entityFramework' section of the application config file. See http://go.microsoft.com/fwlink/?LinkId=260882 for more information.
+10:26:24 AM Tuesday, December 25, 2018  :生成新的GUID：2852EA3F-8DA3-4563-8BC4-10E7FB7E5622
+10:26:24 AM Tuesday, December 25, 2018  :No Entity Framework provider found for the ADO.NET provider with invariant name 'System.Data.SQLite'. Make sure the provider is registered in the 'entityFramework' section of the application config file. See http://go.microsoft.com/fwlink/?LinkId=260882 for more information.
+10:26:24 AM Tuesday, December 25, 2018  :生成新的GUID：41C331A9-8420-4191-9474-BEA9B665CF66
+10:26:24 AM Tuesday, December 25, 2018  :No Entity Framework provider found for the ADO.NET provider with invariant name 'System.Data.SQLite'. Make sure the provider is registered in the 'entityFramework' section of the application config file. See http://go.microsoft.com/fwlink/?LinkId=260882 for more information.
+10:26:25 AM Tuesday, December 25, 2018  :清空文本框！
+10:26:25 AM Tuesday, December 25, 2018  :复制文本框内的内容！
+10:26:25 AM Tuesday, December 25, 2018  :Value cannot be null.
+Parameter name: text
+10:26:27 AM Tuesday, December 25, 2018  :生成新的GUID：774FC1B1-61C3-416C-9670-B33EC805A854
+10:26:27 AM Tuesday, December 25, 2018  :No Entity Framework provider found for the ADO.NET provider with invariant name 'System.Data.SQLite'. Make sure the provider is registered in the 'entityFramework' section of the application config file. See http://go.microsoft.com/fwlink/?LinkId=260882 for more information.
+10:26:27 AM Tuesday, December 25, 2018  :生成新的GUID：075102C0-FC5B-4167-BBE7-8C12BA56A1CD
+10:26:27 AM Tuesday, December 25, 2018  :No Entity Framework provider found for the ADO.NET provider with invariant name 'System.Data.SQLite'. Make sure the provider is registered in the 'entityFramework' section of the application config file. See http://go.microsoft.com/fwlink/?LinkId=260882 for more information.
+10:26:27 AM Tuesday, December 25, 2018  :生成新的GUID：9AF79DA7-80CA-4FC2-8D54-57D86BE873C3
+10:26:27 AM Tuesday, December 25, 2018  :No Entity Framework provider found for the ADO.NET provider with invariant name 'System.Data.SQLite'. Make sure the provider is registered in the 'entityFramework' section of the application config file. See http://go.microsoft.com/fwlink/?LinkId=260882 for more information.
+10:26:28 AM Tuesday, December 25, 2018  :生成新的GUID：FDCA7998-5BDF-4131-BF56-FCBE4C631AB1
+10:26:28 AM Tuesday, December 25, 2018  :No Entity Framework provider found for the ADO.NET provider with invariant name 'System.Data.SQLite'. Make sure the provider is registered in the 'entityFramework' section of the application config file. See http://go.microsoft.com/fwlink/?LinkId=260882 for more information.
+10:26:28 AM Tuesday, December 25, 2018  :生成新的GUID：DF7283E3-53FD-4976-8286-95051E0DF432
+10:26:28 AM Tuesday, December 25, 2018  :No Entity Framework provider found for the ADO.NET provider with invariant name 'System.Data.SQLite'. Make sure the provider is registered in the 'entityFramework' section of the application config file. See http://go.microsoft.com/fwlink/?LinkId=260882 for more information.
+10:26:28 AM Tuesday, December 25, 2018  :生成新的GUID：137D023A-54AF-42A5-8071-1D1B48073583
+10:26:28 AM Tuesday, December 25, 2018  :No Entity Framework provider found for the ADO.NET provider with invariant name 'System.Data.SQLite'. Make sure the provider is registered in the 'entityFramework' section of the application config file. See http://go.microsoft.com/fwlink/?LinkId=260882 for more information.
+10:26:28 AM Tuesday, December 25, 2018  :生成新的GUID：C739EB1C-869B-44BB-9447-AA1D3A8A59FA
+10:26:28 AM Tuesday, December 25, 2018  :No Entity Framework provider found for the ADO.NET provider with invariant name 'System.Data.SQLite'. Make sure the provider is registered in the 'entityFramework' section of the application config file. See http://go.microsoft.com/fwlink/?LinkId=260882 for more information.
+10:26:28 AM Tuesday, December 25, 2018  :生成新的GUID：32F4FF43-FCC9-4644-8056-F1CE84042B50
+10:26:28 AM Tuesday, December 25, 2018  :No Entity Framework provider found for the ADO.NET provider with invariant name 'System.Data.SQLite'. Make sure the provider is registered in the 'entityFramework' section of the application config file. See http://go.microsoft.com/fwlink/?LinkId=260882 for more information.
+10:28:55 AM Tuesday, December 25, 2018  :Logger
+10:28:55 AM Tuesday, December 25, 2018  :
+
+10:28:55 AM Tuesday, December 25, 2018  :
+
+10:28:55 AM Tuesday, December 25, 2018  :程序启动
+-------------------------------------------------------------
+10:28:56 AM Tuesday, December 25, 2018  :生成新的GUID：8B133E52-19E0-4CE3-B489-D90CE2491757
+10:28:56 AM Tuesday, December 25, 2018  :The ADO.NET provider with invariant name 'System.Data.SQLiteEF6' is either not registered in the machine or application config file, or could not be loaded. See the inner exception for details.
+10:28:57 AM Tuesday, December 25, 2018  :生成新的GUID：DB4564D8-E6AB-49D8-B225-6F0E807EB64E
+10:28:57 AM Tuesday, December 25, 2018  :The ADO.NET provider with invariant name 'System.Data.SQLiteEF6' is either not registered in the machine or application config file, or could not be loaded. See the inner exception for details.
+10:28:57 AM Tuesday, December 25, 2018  :生成新的GUID：C56C5F1F-D655-4981-B7C4-D0C9B16BF5F0
+10:28:57 AM Tuesday, December 25, 2018  :The ADO.NET provider with invariant name 'System.Data.SQLiteEF6' is either not registered in the machine or application config file, or could not be loaded. See the inner exception for details.
+10:28:57 AM Tuesday, December 25, 2018  :生成新的GUID：D405D48A-5583-4F48-A73A-94AA10CA8091
+10:28:57 AM Tuesday, December 25, 2018  :The ADO.NET provider with invariant name 'System.Data.SQLiteEF6' is either not registered in the machine or application config file, or could not be loaded. See the inner exception for details.
+10:28:57 AM Tuesday, December 25, 2018  :生成新的GUID：EB2F6138-5199-414B-B4AC-C2E89BCE7BDB
+10:28:57 AM Tuesday, December 25, 2018  :The ADO.NET provider with invariant name 'System.Data.SQLiteEF6' is either not registered in the machine or application config file, or could not be loaded. See the inner exception for details.
+10:32:16 AM Tuesday, December 25, 2018  :生成新的GUID：20428E02-E5F1-4024-A39E-4D3CA18F488D
+10:32:16 AM Tuesday, December 25, 2018  :The ADO.NET provider with invariant name 'System.Data.SQLiteEF6' is either not registered in the machine or application config file, or could not be loaded. See the inner exception for details.
+10:32:17 AM Tuesday, December 25, 2018  :生成新的GUID：EBDCB68A-C5C5-4461-846D-0E1155682143
+10:32:17 AM Tuesday, December 25, 2018  :The ADO.NET provider with invariant name 'System.Data.SQLiteEF6' is either not registered in the machine or application config file, or could not be loaded. See the inner exception for details.
+10:32:17 AM Tuesday, December 25, 2018  :生成新的GUID：94C0880D-FFA7-45CC-8CEA-D31A806F9FB0
+10:32:17 AM Tuesday, December 25, 2018  :The ADO.NET provider with invariant name 'System.Data.SQLiteEF6' is either not registered in the machine or application config file, or could not be loaded. See the inner exception for details.
+11:35:44 AM Tuesday, December 25, 2018  :生成新的GUID：9B8B1888-8023-464F-95EC-78963823BC6B
+11:35:44 AM Tuesday, December 25, 2018  :The ADO.NET provider with invariant name 'System.Data.SQLiteEF6' is either not registered in the machine or application config file, or could not be loaded. See the inner exception for details.
+11:35:45 AM Tuesday, December 25, 2018  :生成新的GUID：CCF1C067-6A20-4119-BA2D-32AD1414176E
+11:35:45 AM Tuesday, December 25, 2018  :The ADO.NET provider with invariant name 'System.Data.SQLiteEF6' is either not registered in the machine or application config file, or could not be loaded. See the inner exception for details.
+11:35:45 AM Tuesday, December 25, 2018  :生成新的GUID：50EA1179-8603-4C98-82F7-94EC3E17817B
+11:35:45 AM Tuesday, December 25, 2018  :The ADO.NET provider with invariant name 'System.Data.SQLiteEF6' is either not registered in the machine or application config file, or could not be loaded. See the inner exception for details.
+11:35:45 AM Tuesday, December 25, 2018  :生成新的GUID：F745071B-1914-4052-8A0D-36E92A3A491C
+11:35:45 AM Tuesday, December 25, 2018  :The ADO.NET provider with invariant name 'System.Data.SQLiteEF6' is either not registered in the machine or application config file, or could not be loaded. See the inner exception for details.
+11:35:45 AM Tuesday, December 25, 2018  :生成新的GUID：30B15FFE-9CC4-410B-97B0-46F61D527208
+11:35:45 AM Tuesday, December 25, 2018  :The ADO.NET provider with invariant name 'System.Data.SQLiteEF6' is either not registered in the machine or application config file, or could not be loaded. See the inner exception for details.
+11:37:59 AM Tuesday, December 25, 2018  :Logger
+11:37:59 AM Tuesday, December 25, 2018  :
+
+11:37:59 AM Tuesday, December 25, 2018  :
+
+11:37:59 AM Tuesday, December 25, 2018  :程序启动
+-------------------------------------------------------------
+11:38:00 AM Tuesday, December 25, 2018  :生成新的GUID：D1756D90-7C01-4F1F-AD97-C4AE0734A03F
+11:38:00 AM Tuesday, December 25, 2018  :The ADO.NET provider with invariant name 'System.Data.SQLiteEF6' is either not registered in the machine or application config file, or could not be loaded. See the inner exception for details.
+11:38:00 AM Tuesday, December 25, 2018  :生成新的GUID：4118C810-F039-4025-8B09-E995D6D9D17A
+11:38:00 AM Tuesday, December 25, 2018  :The ADO.NET provider with invariant name 'System.Data.SQLiteEF6' is either not registered in the machine or application config file, or could not be loaded. See the inner exception for details.
+11:38:00 AM Tuesday, December 25, 2018  :生成新的GUID：7AA57E98-2C26-45AD-A302-DDC24854D627
+11:38:00 AM Tuesday, December 25, 2018  :The ADO.NET provider with invariant name 'System.Data.SQLiteEF6' is either not registered in the machine or application config file, or could not be loaded. See the inner exception for details.
+11:38:01 AM Tuesday, December 25, 2018  :生成新的GUID：5A2F8EBB-DBAD-46AA-840C-32EE02EF5BE5
+11:38:01 AM Tuesday, December 25, 2018  :The ADO.NET provider with invariant name 'System.Data.SQLiteEF6' is either not registered in the machine or application config file, or could not be loaded. See the inner exception for details.
+11:38:01 AM Tuesday, December 25, 2018  :生成新的GUID：3FA18EAA-9F0E-4480-8E8F-B166A7DBAC58
+11:38:01 AM Tuesday, December 25, 2018  :The ADO.NET provider with invariant name 'System.Data.SQLiteEF6' is either not registered in the machine or application config file, or could not be loaded. See the inner exception for details.
+11:38:01 AM Tuesday, December 25, 2018  :生成新的GUID：038758E2-D3A2-4FEA-AC9F-A7DA08171199
+11:38:01 AM Tuesday, December 25, 2018  :The ADO.NET provider with invariant name 'System.Data.SQLiteEF6' is either not registered in the machine or application config file, or could not be loaded. See the inner exception for details.
+11:38:01 AM Tuesday, December 25, 2018  :生成新的GUID：FB9D446C-B5A0-4752-9196-99ECDA273987
+11:38:01 AM Tuesday, December 25, 2018  :The ADO.NET provider with invariant name 'System.Data.SQLiteEF6' is either not registered in the machine or application config file, or could not be loaded. See the inner exception for details.
+11:38:01 AM Tuesday, December 25, 2018  :生成新的GUID：18832CF8-1FE1-454C-A81C-C7E81BFBAE26
+11:38:01 AM Tuesday, December 25, 2018  :The ADO.NET provider with invariant name 'System.Data.SQLiteEF6' is either not registered in the machine or application config file, or could not be loaded. See the inner exception for details.
+11:43:12 AM Tuesday, December 25, 2018  :Logger
+11:43:12 AM Tuesday, December 25, 2018  :
+
+11:43:12 AM Tuesday, December 25, 2018  :
+
+11:43:12 AM Tuesday, December 25, 2018  :程序启动
+-------------------------------------------------------------
+11:43:17 AM Tuesday, December 25, 2018  :生成新的GUID：19C4035A-A55C-43E1-99AF-83EE9384A021
+11:43:17 AM Tuesday, December 25, 2018  :The ADO.NET provider with invariant name 'System.Data.SQLiteEF6' is either not registered in the machine or application config file, or could not be loaded. See the inner exception for details.
+11:43:26 AM Tuesday, December 25, 2018  :生成新的GUID：D34F5A99-80EE-456E-9896-E3ABB3EEEB64
+11:43:26 AM Tuesday, December 25, 2018  :The ADO.NET provider with invariant name 'System.Data.SQLiteEF6' is either not registered in the machine or application config file, or could not be loaded. See the inner exception for details.
+11:43:27 AM Tuesday, December 25, 2018  :生成新的GUID：8C66F87E-375B-485F-A1E5-8BEA4D1FB5E7
+11:43:27 AM Tuesday, December 25, 2018  :The ADO.NET provider with invariant name 'System.Data.SQLiteEF6' is either not registered in the machine or application config file, or could not be loaded. See the inner exception for details.
+11:43:27 AM Tuesday, December 25, 2018  :生成新的GUID：9AC379A5-F098-49B9-A43E-911C5E91545F
+11:43:27 AM Tuesday, December 25, 2018  :The ADO.NET provider with invariant name 'System.Data.SQLiteEF6' is either not registered in the machine or application config file, or could not be loaded. See the inner exception for details.
+11:43:27 AM Tuesday, December 25, 2018  :生成新的GUID：3B01431E-87D4-40C3-A3CE-703E2B547B5B
+11:43:27 AM Tuesday, December 25, 2018  :The ADO.NET provider with invariant name 'System.Data.SQLiteEF6' is either not registered in the machine or application config file, or could not be loaded. See the inner exception for details.
+11:43:28 AM Tuesday, December 25, 2018  :生成新的GUID：A3EE8C45-5F4C-42F0-AD8B-950B6C79C785
+11:43:28 AM Tuesday, December 25, 2018  :The ADO.NET provider with invariant name 'System.Data.SQLiteEF6' is either not registered in the machine or application config file, or could not be loaded. See the inner exception for details.
+11:43:28 AM Tuesday, December 25, 2018  :生成新的GUID：9EFCE8A6-BEA8-460D-A3E3-878D2A4822BC
+11:43:28 AM Tuesday, December 25, 2018  :The ADO.NET provider with invariant name 'System.Data.SQLiteEF6' is either not registered in the machine or application config file, or could not be loaded. See the inner exception for details.
+11:43:28 AM Tuesday, December 25, 2018  :生成新的GUID：30347F65-A25A-4B55-ABBC-AF060723DD86
+11:43:28 AM Tuesday, December 25, 2018  :The ADO.NET provider with invariant name 'System.Data.SQLiteEF6' is either not registered in the machine or application config file, or could not be loaded. See the inner exception for details.
+11:43:44 AM Tuesday, December 25, 2018  :清空文本框！
+11:44:27 AM Tuesday, December 25, 2018  :Logger
+11:44:27 AM Tuesday, December 25, 2018  :
+
+11:44:28 AM Tuesday, December 25, 2018  :
+
+11:44:28 AM Tuesday, December 25, 2018  :程序启动
+-------------------------------------------------------------
+11:44:30 AM Tuesday, December 25, 2018  :生成新的GUID：90E126E2-68D5-432B-991E-93BB291A9309
+11:52:05 AM Tuesday, December 25, 2018  :Logger
+11:52:05 AM Tuesday, December 25, 2018  :
+
+11:52:05 AM Tuesday, December 25, 2018  :
+
+11:52:05 AM Tuesday, December 25, 2018  :程序启动
+-------------------------------------------------------------
+11:52:06 AM Tuesday, December 25, 2018  :生成新的GUID：2960E6A0-67FE-46B7-9FCD-0ABEBD4BD558
+11:52:06 AM Tuesday, December 25, 2018  :The ADO.NET provider with invariant name 'System.Data.SQLiteEF6' is either not registered in the machine or application config file, or could not be loaded. See the inner exception for details.
+11:52:07 AM Tuesday, December 25, 2018  :生成新的GUID：DFAB8238-BFB3-4874-9E84-C796567200A2
+11:52:07 AM Tuesday, December 25, 2018  :The ADO.NET provider with invariant name 'System.Data.SQLiteEF6' is either not registered in the machine or application config file, or could not be loaded. See the inner exception for details.
+11:52:07 AM Tuesday, December 25, 2018  :生成新的GUID：6277537D-6C68-468E-9A70-CA82EE2EC991
+11:52:07 AM Tuesday, December 25, 2018  :The ADO.NET provider with invariant name 'System.Data.SQLiteEF6' is either not registered in the machine or application config file, or could not be loaded. See the inner exception for details.
+11:52:07 AM Tuesday, December 25, 2018  :生成新的GUID：67EF8FC4-BB0A-4B5E-965F-C9E2A7B80845
+11:52:07 AM Tuesday, December 25, 2018  :The ADO.NET provider with invariant name 'System.Data.SQLiteEF6' is either not registered in the machine or application config file, or could not be loaded. See the inner exception for details.
+11:52:07 AM Tuesday, December 25, 2018  :生成新的GUID：B6C50F86-8EBE-4F98-A0B1-F12588F00CFA
+11:52:07 AM Tuesday, December 25, 2018  :The ADO.NET provider with invariant name 'System.Data.SQLiteEF6' is either not registered in the machine or application config file, or could not be loaded. See the inner exception for details.
+11:52:07 AM Tuesday, December 25, 2018  :生成新的GUID：C43B5295-882F-482A-A494-AA39DF563CB1
+11:52:07 AM Tuesday, December 25, 2018  :The ADO.NET provider with invariant name 'System.Data.SQLiteEF6' is either not registered in the machine or application config file, or could not be loaded. See the inner exception for details.
+11:52:08 AM Tuesday, December 25, 2018  :生成新的GUID：E19F2A96-94E5-4909-A006-A2A74294A81E
+11:52:08 AM Tuesday, December 25, 2018  :The ADO.NET provider with invariant name 'System.Data.SQLiteEF6' is either not registered in the machine or application config file, or could not be loaded. See the inner exception for details.
+11:54:49 AM Tuesday, December 25, 2018  :Logger
+11:54:49 AM Tuesday, December 25, 2018  :
+
+11:54:49 AM Tuesday, December 25, 2018  :
+
+11:54:49 AM Tuesday, December 25, 2018  :程序启动
+-------------------------------------------------------------
+11:54:51 AM Tuesday, December 25, 2018  :生成新的GUID：251DF94E-6CB7-46AD-859C-D46209DAE035
+11:54:51 AM Tuesday, December 25, 2018  :One or more validation errors were detected during model generation:
+
+CreateGUID.Note: : EntityType 'Note' has no key defined. Define the key for this EntityType.
+Notes: EntityType: EntitySet 'Notes' is based on type 'Note' that has no keys defined.
+
+11:54:51 AM Tuesday, December 25, 2018  :生成新的GUID：61D36EEC-33BF-4E8C-A22F-8A2AC1E9D25E
+11:54:51 AM Tuesday, December 25, 2018  :One or more validation errors were detected during model generation:
+
+CreateGUID.Note: : EntityType 'Note' has no key defined. Define the key for this EntityType.
+Notes: EntityType: EntitySet 'Notes' is based on type 'Note' that has no keys defined.
+
+11:54:51 AM Tuesday, December 25, 2018  :生成新的GUID：6B167CA9-4E21-4704-BCD7-DF377C4BFDF8
+11:54:51 AM Tuesday, December 25, 2018  :One or more validation errors were detected during model generation:
+
+CreateGUID.Note: : EntityType 'Note' has no key defined. Define the key for this EntityType.
+Notes: EntityType: EntitySet 'Notes' is based on type 'Note' that has no keys defined.
+
+11:54:52 AM Tuesday, December 25, 2018  :生成新的GUID：AD4A54B6-FBEF-46DB-8AD1-ED2D0761C630
+11:54:52 AM Tuesday, December 25, 2018  :One or more validation errors were detected during model generation:
+
+CreateGUID.Note: : EntityType 'Note' has no key defined. Define the key for this EntityType.
+Notes: EntityType: EntitySet 'Notes' is based on type 'Note' that has no keys defined.
+
+11:54:52 AM Tuesday, December 25, 2018  :生成新的GUID：1BCD2AD0-921C-4486-BA5B-6118A3F757C3
+11:54:52 AM Tuesday, December 25, 2018  :One or more validation errors were detected during model generation:
+
+CreateGUID.Note: : EntityType 'Note' has no key defined. Define the key for this EntityType.
+Notes: EntityType: EntitySet 'Notes' is based on type 'Note' that has no keys defined.
+
+12:04:06 PM Tuesday, December 25, 2018  :Logger
+12:04:06 PM Tuesday, December 25, 2018  :
+
+12:04:06 PM Tuesday, December 25, 2018  :
+
+12:04:06 PM Tuesday, December 25, 2018  :程序启动
+-------------------------------------------------------------
+12:04:52 PM Tuesday, December 25, 2018  :Logger
+12:04:52 PM Tuesday, December 25, 2018  :
+
+12:04:52 PM Tuesday, December 25, 2018  :
+
+12:04:52 PM Tuesday, December 25, 2018  :程序启动
+-------------------------------------------------------------
+12:05:33 PM Tuesday, December 25, 2018  :Logger
+12:05:33 PM Tuesday, December 25, 2018  :
+
+12:05:33 PM Tuesday, December 25, 2018  :
+
+12:05:33 PM Tuesday, December 25, 2018  :程序启动
+-------------------------------------------------------------
+12:05:35 PM Tuesday, December 25, 2018  :生成新的GUID：808A61C4-EDD0-42D1-938B-DD45B4617D76
+12:05:35 PM Tuesday, December 25, 2018  :存储guid到数据库
+12:06:11 PM Tuesday, December 25, 2018  :Logger
+12:06:11 PM Tuesday, December 25, 2018  :
+
+12:06:11 PM Tuesday, December 25, 2018  :
+
+12:06:12 PM Tuesday, December 25, 2018  :程序启动
+-------------------------------------------------------------
+12:06:14 PM Tuesday, December 25, 2018  :生成新的GUID：B8C40D63-CA95-4F62-86DE-472DDC681E3E
+12:06:14 PM Tuesday, December 25, 2018  :存储guid到数据库
+12:06:15 PM Tuesday, December 25, 2018  :生成新的GUID：08A2DF03-4CDA-4493-A5D7-DAE8FE4FBA4F
+12:06:15 PM Tuesday, December 25, 2018  :存储guid到数据库
+12:06:15 PM Tuesday, December 25, 2018  :生成新的GUID：08EF9403-0CDB-4F7C-8154-7112A0E5AE24
+12:06:15 PM Tuesday, December 25, 2018  :存储guid到数据库
+12:06:15 PM Tuesday, December 25, 2018  :生成新的GUID：1112FA13-B888-4AA4-A96E-B1C6A251F1DE
+12:06:15 PM Tuesday, December 25, 2018  :存储guid到数据库
+12:06:16 PM Tuesday, December 25, 2018  :生成新的GUID：CFD5FD07-2C7D-4689-920D-7A11D1A9433A
+12:06:16 PM Tuesday, December 25, 2018  :存储guid到数据库
+12:06:16 PM Tuesday, December 25, 2018  :生成新的GUID：8D2CEA8D-F830-4E99-B115-CA0D3476BAB7
+12:06:16 PM Tuesday, December 25, 2018  :存储guid到数据库
+12:06:46 PM Tuesday, December 25, 2018  :Logger
+12:06:46 PM Tuesday, December 25, 2018  :
+
+12:06:46 PM Tuesday, December 25, 2018  :
+
+12:06:46 PM Tuesday, December 25, 2018  :程序启动
+-------------------------------------------------------------
+12:09:22 PM Tuesday, December 25, 2018  :Logger
+12:09:22 PM Tuesday, December 25, 2018  :
+
+12:09:22 PM Tuesday, December 25, 2018  :
+
+12:09:22 PM Tuesday, December 25, 2018  :程序启动
+-------------------------------------------------------------
+12:09:23 PM Tuesday, December 25, 2018  :生成新的GUID：081FA420-3B1F-4C78-9309-358EFCA7F7EE
+12:09:34 PM Tuesday, December 25, 2018  :生成新的GUID：38E11562-C213-489C-AA05-08DA4EE154B8
+12:09:35 PM Tuesday, December 25, 2018  :生成新的GUID：F2954289-7B2C-420F-B80C-BC10362B0A03
+12:09:35 PM Tuesday, December 25, 2018  :生成新的GUID：F436CEC5-B25D-4125-9539-423B97F0E796
+12:09:35 PM Tuesday, December 25, 2018  :生成新的GUID：A3D93606-8359-4148-9B5A-9EEE561D7505
+12:09:35 PM Tuesday, December 25, 2018  :生成新的GUID：C316187E-DAF2-4AEB-800C-11D3D0184F1C
+12:11:02 PM Tuesday, December 25, 2018  :Logger
+12:11:02 PM Tuesday, December 25, 2018  :
+
+12:11:02 PM Tuesday, December 25, 2018  :
+
+12:11:02 PM Tuesday, December 25, 2018  :程序启动
+-------------------------------------------------------------
+12:11:13 PM Tuesday, December 25, 2018  :生成新的GUID：C6F328ED-A352-4AE4-B0E6-B03CE3E19CFD
+12:12:37 PM Tuesday, December 25, 2018  :Logger
+12:12:37 PM Tuesday, December 25, 2018  :
+
+12:12:37 PM Tuesday, December 25, 2018  :
+
+12:12:37 PM Tuesday, December 25, 2018  :程序启动
+-------------------------------------------------------------
+12:12:46 PM Tuesday, December 25, 2018  :生成新的GUID：8CC9B6E8-1445-4739-8A15-F3837ABD5484
+12:19:06 PM Tuesday, December 25, 2018  :Logger
+12:19:06 PM Tuesday, December 25, 2018  :
+
+12:19:06 PM Tuesday, December 25, 2018  :
+
+12:19:06 PM Tuesday, December 25, 2018  :程序启动
+-------------------------------------------------------------
+12:19:07 PM Tuesday, December 25, 2018  :生成新的GUID：B584EA8F-91B6-4C32-9D77-16F46199C7F2！
+12:19:07 PM Tuesday, December 25, 2018  :开始将GUID:B584EA8F-91B6-4C32-9D77-16F46199C7F2写入数据库！
+12:19:08 PM Tuesday, December 25, 2018  :生成新的GUID：FD7055D1-8C06-449A-8C44-8DE898CA0500！
+12:19:08 PM Tuesday, December 25, 2018  :开始将GUID:FD7055D1-8C06-449A-8C44-8DE898CA0500写入数据库！
+12:19:08 PM Tuesday, December 25, 2018  :生成新的GUID：0E91B485-641E-4BC8-95E2-766611F4A4B1！
+12:19:08 PM Tuesday, December 25, 2018  :开始将GUID:0E91B485-641E-4BC8-95E2-766611F4A4B1写入数据库！
+12:19:08 PM Tuesday, December 25, 2018  :生成新的GUID：9911D8C3-A933-4EC1-A9B4-3B5B6D2D60A2！
+12:19:08 PM Tuesday, December 25, 2018  :开始将GUID:9911D8C3-A933-4EC1-A9B4-3B5B6D2D60A2写入数据库！
+12:19:08 PM Tuesday, December 25, 2018  :生成新的GUID：CAA53572-AAE6-467A-A8B5-832B0E224B8F！
+12:19:08 PM Tuesday, December 25, 2018  :开始将GUID:CAA53572-AAE6-467A-A8B5-832B0E224B8F写入数据库！
+12:19:08 PM Tuesday, December 25, 2018  :生成新的GUID：FB287523-4501-4107-AB86-08EB1F092EBD！
+12:19:08 PM Tuesday, December 25, 2018  :开始将GUID:FB287523-4501-4107-AB86-08EB1F092EBD写入数据库！
+12:19:09 PM Tuesday, December 25, 2018  :生成新的GUID：28FB3255-1A11-4CC5-8C01-218AD2C73142！
+12:19:09 PM Tuesday, December 25, 2018  :开始将GUID:28FB3255-1A11-4CC5-8C01-218AD2C73142写入数据库！
+12:19:09 PM Tuesday, December 25, 2018  :生成新的GUID：D39B752E-D478-4AB0-9A5D-82AEA15381F4！
+12:19:09 PM Tuesday, December 25, 2018  :开始将GUID:D39B752E-D478-4AB0-9A5D-82AEA15381F4写入数据库！
+12:19:09 PM Tuesday, December 25, 2018  :生成新的GUID：DDAF221B-70C6-45EE-B44C-AAFBE5C077C0！
+12:19:09 PM Tuesday, December 25, 2018  :开始将GUID:DDAF221B-70C6-45EE-B44C-AAFBE5C077C0写入数据库！
+12:19:09 PM Tuesday, December 25, 2018  :生成新的GUID：ED9B0886-CA73-406E-9622-4BA4EA4E3A88！
+12:19:09 PM Tuesday, December 25, 2018  :开始将GUID:ED9B0886-CA73-406E-9622-4BA4EA4E3A88写入数据库！
+12:19:09 PM Tuesday, December 25, 2018  :生成新的GUID：B6920B2F-FEBA-423F-92D8-E7EC2101F5E6！
+12:19:09 PM Tuesday, December 25, 2018  :开始将GUID:B6920B2F-FEBA-423F-92D8-E7EC2101F5E6写入数据库！
+12:19:33 PM Tuesday, December 25, 2018  :复制文本框内的内容！
+12:19:35 PM Tuesday, December 25, 2018  :清空文本框！
+12:19:36 PM Tuesday, December 25, 2018  :复制文本框内的内容！
+12:19:36 PM Tuesday, December 25, 2018  :Value cannot be null.
+Parameter name: text
+12:26:24 PM Tuesday, December 25, 2018  :Logger
+12:26:24 PM Tuesday, December 25, 2018  :
+
+12:26:24 PM Tuesday, December 25, 2018  :
+
+12:26:24 PM Tuesday, December 25, 2018  :程序启动
+-------------------------------------------------------------
+12:26:26 PM Tuesday, December 25, 2018  :生成新的GUID：322B20B2-9AC6-4A69-A48E-5752C9637CB8！
+12:26:26 PM Tuesday, December 25, 2018  :开始将GUID:322B20B2-9AC6-4A69-A48E-5752C9637CB8写入数据库！
+12:26:26 PM Tuesday, December 25, 2018  :生成新的GUID：FF72CC4C-5367-47E7-B009-8051FC9C39C0！
+12:26:26 PM Tuesday, December 25, 2018  :开始将GUID:FF72CC4C-5367-47E7-B009-8051FC9C39C0写入数据库！
+12:26:26 PM Tuesday, December 25, 2018  :生成新的GUID：B93DD024-5507-48FF-A111-C882FB08C457！
+12:26:26 PM Tuesday, December 25, 2018  :开始将GUID:B93DD024-5507-48FF-A111-C882FB08C457写入数据库！
+12:26:26 PM Tuesday, December 25, 2018  :生成新的GUID：724BEC9F-42EE-4335-9DE2-BA13A89917FC！
+12:26:26 PM Tuesday, December 25, 2018  :开始将GUID:724BEC9F-42EE-4335-9DE2-BA13A89917FC写入数据库！
+12:26:27 PM Tuesday, December 25, 2018  :生成新的GUID：4B17CE0C-51E6-4A11-A26E-B7D645C86930！
+12:26:27 PM Tuesday, December 25, 2018  :开始将GUID:4B17CE0C-51E6-4A11-A26E-B7D645C86930写入数据库！
+12:45:48 PM Tuesday, December 25, 2018  :Logger
+12:45:48 PM Tuesday, December 25, 2018  :
+
+12:45:48 PM Tuesday, December 25, 2018  :
+
+12:45:48 PM Tuesday, December 25, 2018  :程序启动
+-------------------------------------------------------------
+12:45:50 PM Tuesday, December 25, 2018  :生成新的GUID：9F6D8550-80E3-42D4-B98A-17D764AC9B08！
+12:45:50 PM Tuesday, December 25, 2018  :开始将GUID:9F6D8550-80E3-42D4-B98A-17D764AC9B08写入数据库！
+12:46:55 PM Tuesday, December 25, 2018  :生成新的GUID：93CA3309-FFE7-453B-BC3B-3E487DDE65AD！
+12:46:55 PM Tuesday, December 25, 2018  :开始将GUID:93CA3309-FFE7-453B-BC3B-3E487DDE65AD写入数据库！
+12:55:35 PM Tuesday, December 25, 2018  :Logger
+12:55:35 PM Tuesday, December 25, 2018  :
+
+12:55:35 PM Tuesday, December 25, 2018  :
+
+12:55:35 PM Tuesday, December 25, 2018  :程序启动
+-------------------------------------------------------------
+12:55:36 PM Tuesday, December 25, 2018  :生成新的GUID：EB3A866E-4893-4484-8F95-5B422671FF68！
+12:55:36 PM Tuesday, December 25, 2018  :开始将GUID:EB3A866E-4893-4484-8F95-5B422671FF68写入数据库！
+12:59:15 PM Tuesday, December 25, 2018  :生成新的GUID：57A11471-E656-4350-8750-06712027E715！
+12:59:15 PM Tuesday, December 25, 2018  :开始将GUID:57A11471-E656-4350-8750-06712027E715写入数据库！
+1:26:59 PM Tuesday, December 25, 2018  :Logger
+1:27:00 PM Tuesday, December 25, 2018  :
+
+1:27:00 PM Tuesday, December 25, 2018  :
+
+1:27:00 PM Tuesday, December 25, 2018  :程序启动
+-------------------------------------------------------------
+1:27:04 PM Tuesday, December 25, 2018  :生成新的GUID：B170FD0A-E962-4ECC-AF16-EF8F27A98A61！
+1:27:04 PM Tuesday, December 25, 2018  :开始将GUID:B170FD0A-E962-4ECC-AF16-EF8F27A98A61写入数据库！
+1:33:20 PM Tuesday, December 25, 2018  :生成新的GUID：F8A4EE11-565C-4586-BDB8-99D3C97D5C1B！
+1:33:20 PM Tuesday, December 25, 2018  :开始将GUID:F8A4EE11-565C-4586-BDB8-99D3C97D5C1B写入数据库！
+1:33:21 PM Tuesday, December 25, 2018  :生成新的GUID：C416A04B-D561-4EB9-AA05-5B8B9A847096！
+1:33:21 PM Tuesday, December 25, 2018  :开始将GUID:C416A04B-D561-4EB9-AA05-5B8B9A847096写入数据库！
+1:33:21 PM Tuesday, December 25, 2018  :生成新的GUID：6F0B00E7-4B28-417E-9387-D6E1FC3BC0BA！
+1:33:21 PM Tuesday, December 25, 2018  :开始将GUID:6F0B00E7-4B28-417E-9387-D6E1FC3BC0BA写入数据库！
+1:33:21 PM Tuesday, December 25, 2018  :生成新的GUID：A9852452-2B5D-452A-BADE-FF8B8A47DC06！
+1:33:21 PM Tuesday, December 25, 2018  :开始将GUID:A9852452-2B5D-452A-BADE-FF8B8A47DC06写入数据库！
+1:33:21 PM Tuesday, December 25, 2018  :生成新的GUID：B5B4CD70-F366-4785-B9A1-48B274DAE70A！
+1:33:21 PM Tuesday, December 25, 2018  :开始将GUID:B5B4CD70-F366-4785-B9A1-48B274DAE70A写入数据库！
+1:33:22 PM Tuesday, December 25, 2018  :生成新的GUID：355B7077-AA78-439D-B225-440B78490254！
+1:33:22 PM Tuesday, December 25, 2018  :开始将GUID:355B7077-AA78-439D-B225-440B78490254写入数据库！
+1:33:22 PM Tuesday, December 25, 2018  :生成新的GUID：1A17CE1B-CF66-4A16-8594-59F23CB8CE1C！
+1:33:22 PM Tuesday, December 25, 2018  :开始将GUID:1A17CE1B-CF66-4A16-8594-59F23CB8CE1C写入数据库！
+1:33:22 PM Tuesday, December 25, 2018  :生成新的GUID：E4CDDA62-9C2E-4119-A0D1-B11F8EEA85A9！
+1:33:22 PM Tuesday, December 25, 2018  :开始将GUID:E4CDDA62-9C2E-4119-A0D1-B11F8EEA85A9写入数据库！
+1:33:22 PM Tuesday, December 25, 2018  :生成新的GUID：34D448E7-8DBB-4D5D-9ADA-02E1E2DDDE02！
+1:33:22 PM Tuesday, December 25, 2018  :开始将GUID:34D448E7-8DBB-4D5D-9ADA-02E1E2DDDE02写入数据库！
+1:41:10 PM Tuesday, December 25, 2018  :Logger
+1:41:10 PM Tuesday, December 25, 2018  :
+
+1:41:10 PM Tuesday, December 25, 2018  :
+
+1:41:10 PM Tuesday, December 25, 2018  :程序启动
+-------------------------------------------------------------
+3:37:07 PM Tuesday, December 25, 2018  :Logger
+3:37:07 PM Tuesday, December 25, 2018  :
+
+3:37:07 PM Tuesday, December 25, 2018  :
+
+3:37:07 PM Tuesday, December 25, 2018  :程序启动
+-------------------------------------------------------------
+3:40:31 PM Tuesday, December 25, 2018  :Logger
+3:40:31 PM Tuesday, December 25, 2018  :
+
+3:40:31 PM Tuesday, December 25, 2018  :
+
+3:40:31 PM Tuesday, December 25, 2018  :程序启动
+-------------------------------------------------------------
+3:40:39 PM Tuesday, December 25, 2018  :Logger
+3:40:39 PM Tuesday, December 25, 2018  :
+
+3:40:39 PM Tuesday, December 25, 2018  :
+
+3:40:39 PM Tuesday, December 25, 2018  :程序启动
+-------------------------------------------------------------
+3:40:44 PM Tuesday, December 25, 2018  :生成新的GUID：8A4DEABF-DD16-4B21-8131-4B0ED05CDE07！
+3:40:44 PM Tuesday, December 25, 2018  :开始将GUID:8A4DEABF-DD16-4B21-8131-4B0ED05CDE07写入数据库！
+4:01:25 PM Tuesday, December 25, 2018  :Logger
+4:01:25 PM Tuesday, December 25, 2018  :
+
+4:01:25 PM Tuesday, December 25, 2018  :
+
+4:01:25 PM Tuesday, December 25, 2018  :程序启动
+-------------------------------------------------------------
+4:01:27 PM Tuesday, December 25, 2018  :生成新的GUID：E1359700-9098-43BE-BC2C-3A6A347D85E3！
+4:01:27 PM Tuesday, December 25, 2018  :开始将GUID:E1359700-9098-43BE-BC2C-3A6A347D85E3写入数据库！

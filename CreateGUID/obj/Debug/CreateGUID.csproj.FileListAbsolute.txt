@@ -57,3 +57,15 @@ D:\Github Repository\serpent1\TOOLS\CreateGUID\obj\Debug\CreateGUID.csproj.Gener
 D:\Github Repository\serpent1\TOOLS\CreateGUID\obj\Debug\CreateGUID.csproj.CoreCompileInputs.cache
 D:\Github Repository\serpent1\TOOLS\CreateGUID\obj\Debug\CreateGUID.exe
 D:\Github Repository\serpent1\TOOLS\CreateGUID\obj\Debug\CreateGUID.pdb
+D:\Github Repository\serpent1\TOOLS\CreateGUID\bin\Debug\EntityFramework.dll
+D:\Github Repository\serpent1\TOOLS\CreateGUID\bin\Debug\EntityFramework.SqlServer.dll
+D:\Github Repository\serpent1\TOOLS\CreateGUID\bin\Debug\System.Data.SQLite.dll
+D:\Github Repository\serpent1\TOOLS\CreateGUID\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Github Repository\serpent1\TOOLS\CreateGUID\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Github Repository\serpent1\TOOLS\CreateGUID\bin\Debug\EntityFramework.xml
+D:\Github Repository\serpent1\TOOLS\CreateGUID\bin\Debug\EntityFramework.SqlServer.xml
+D:\Github Repository\serpent1\TOOLS\CreateGUID\bin\Debug\System.Data.SQLite.xml
+D:\Github Repository\serpent1\TOOLS\CreateGUID\bin\Debug\System.Data.SQLite.dll.config
+D:\Github Repository\serpent1\TOOLS\CreateGUID\obj\Debug\CreateGUID.csproj.CopyComplete
+D:\Github Repository\serpent1\TOOLS\CreateGUID\bin\Debug\SQLite.CodeFirst.dll
+D:\Github Repository\serpent1\TOOLS\CreateGUID\obj\Debug\CreateGUID.csprojAssemblyReference.cache

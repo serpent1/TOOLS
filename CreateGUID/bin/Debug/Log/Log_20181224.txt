@@ -1,0 +1,67 @@
+12:35:03 PM Monday, December 24, 2018  :Logger
+12:35:03 PM Monday, December 24, 2018  :
+
+12:35:03 PM Monday, December 24, 2018  :
+
+12:35:03 PM Monday, December 24, 2018  :程序启动
+-------------------------------------------------------------
+12:35:04 PM Monday, December 24, 2018  :生成新的GUID!
+12:35:06 PM Monday, December 24, 2018  :将GUID放入文本框内！
+12:35:06 PM Monday, December 24, 2018  :Value cannot be null.
+Parameter name: text
+12:35:38 PM Monday, December 24, 2018  :将GUID放入文本框内！
+12:35:38 PM Monday, December 24, 2018  :Value cannot be null.
+Parameter name: text
+12:36:03 PM Monday, December 24, 2018  :将GUID放入文本框内！
+12:36:03 PM Monday, December 24, 2018  :Value cannot be null.
+Parameter name: text
+12:38:58 PM Monday, December 24, 2018  :Logger
+12:38:58 PM Monday, December 24, 2018  :
+
+12:38:58 PM Monday, December 24, 2018  :
+
+12:38:58 PM Monday, December 24, 2018  :程序启动
+-------------------------------------------------------------
+12:38:59 PM Monday, December 24, 2018  :生成新的GUID!
+12:39:01 PM Monday, December 24, 2018  :清空文本框！
+12:39:01 PM Monday, December 24, 2018  :复制文本框内的内容！
+12:39:01 PM Monday, December 24, 2018  :Value cannot be null.
+Parameter name: text
+12:39:03 PM Monday, December 24, 2018  :清空文本框！
+12:39:04 PM Monday, December 24, 2018  :复制文本框内的内容！
+12:39:04 PM Monday, December 24, 2018  :Value cannot be null.
+Parameter name: text
+12:39:29 PM Monday, December 24, 2018  :清空文本框！
+12:39:39 PM Monday, December 24, 2018  :复制文本框内的内容！
+12:39:39 PM Monday, December 24, 2018  :Value cannot be null.
+Parameter name: text
+12:46:36 PM Monday, December 24, 2018  :清空文本框！
+12:46:36 PM Monday, December 24, 2018  :清空文本框！
+12:46:37 PM Monday, December 24, 2018  :清空文本框！
+12:46:37 PM Monday, December 24, 2018  :清空文本框！
+12:46:37 PM Monday, December 24, 2018  :清空文本框！
+12:46:37 PM Monday, December 24, 2018  :清空文本框！
+12:46:37 PM Monday, December 24, 2018  :清空文本框！
+12:46:37 PM Monday, December 24, 2018  :清空文本框！
+12:49:12 PM Monday, December 24, 2018  :Logger
+12:49:12 PM Monday, December 24, 2018  :
+
+12:49:12 PM Monday, December 24, 2018  :
+
+12:49:12 PM Monday, December 24, 2018  :程序启动
+-------------------------------------------------------------
+12:49:25 PM Monday, December 24, 2018  :生成新的GUID!
+1:34:13 PM Monday, December 24, 2018  :Logger
+1:34:13 PM Monday, December 24, 2018  :
+
+1:34:13 PM Monday, December 24, 2018  :
+
+1:34:13 PM Monday, December 24, 2018  :程序启动
+-------------------------------------------------------------
+1:34:17 PM Monday, December 24, 2018  :生成新的GUID：BE43615D-7027-4556-8272-944BCB993932
+1:34:30 PM Monday, December 24, 2018  :生成新的GUID：24B00031-D517-42AF-ADF6-A2661EB8A976
+1:34:32 PM Monday, December 24, 2018  :生成新的GUID：E2407C3C-5AEC-4ACF-9CFE-8EC554829CD0
+1:34:32 PM Monday, December 24, 2018  :生成新的GUID：C6C5040A-4C14-484D-92A2-1DE86928EF4C
+1:34:32 PM Monday, December 24, 2018  :生成新的GUID：62CB5159-77A9-4405-98A0-E492CCAD481C
+1:34:32 PM Monday, December 24, 2018  :生成新的GUID：5AD5A86A-918D-44C2-8B5A-9904EE42A45F
+1:36:38 PM Monday, December 24, 2018  :清空文本框！

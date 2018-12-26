@@ -28,3 +28,9 @@ D:\Github Repository\serpent1\TOOLS\DispenserCOMM\obj\Debug\DispenserCOMM.csproj
 D:\Github Repository\serpent1\TOOLS\DispenserCOMM\obj\Debug\DispenserCOMM.csproj.CoreCompileInputs.cache
 D:\Github Repository\serpent1\TOOLS\DispenserCOMM\obj\Debug\DispenserCOMM.exe
 D:\Github Repository\serpent1\TOOLS\DispenserCOMM\obj\Debug\DispenserCOMM.pdb
+D:\Github Repository\serpent1\TOOLS\DispenserCOMM\bin\Debug\EntityFramework.dll
+D:\Github Repository\serpent1\TOOLS\DispenserCOMM\bin\Debug\EntityFramework.SqlServer.dll
+D:\Github Repository\serpent1\TOOLS\DispenserCOMM\bin\Debug\SQLite.CodeFirst.dll
+D:\Github Repository\serpent1\TOOLS\DispenserCOMM\bin\Debug\EntityFramework.xml
+D:\Github Repository\serpent1\TOOLS\DispenserCOMM\bin\Debug\EntityFramework.SqlServer.xml
+D:\Github Repository\serpent1\TOOLS\DispenserCOMM\obj\Debug\DispenserCOMM.csproj.CopyComplete
